@@ -29,3 +29,8 @@ Terceira pessoa fixa superior.
 # Controle
 
 Ações feitas com teclado ou controle, exemplo andar entre os corredores de alunos.
+
+# Moodboard / Galeria
+
+<img src="/Imagens/img1.jpg" alt="imagem modelo ideia " width="50%" height="50%">
+
